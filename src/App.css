@@ -1,0 +1,213 @@
+.App {
+  text-align: center;
+}
+
+.App-img {
+  margin-top: 30px;
+  margin-bottom: 16px;
+  width: 100%;
+}
+
+.left-img {
+  margin-left: 20px;
+}
+
+.right-search {
+  height: 50px;
+}
+
+.search-name{
+  width: 30%;
+  padding: 20px;
+  color: #424242;
+  outline: none;
+}
+
+.button-crud {
+  display: inline-flex;
+}
+
+.search-company {
+  width: 30%;
+  padding: 20px;
+  color: #424242;
+  outline: none;
+}
+
+.sort-by{
+  width: 20%;
+  /* padding: 20px; */
+  color: #424242;
+  outline: none;
+}
+
+.button-search {
+  display: block;
+    width: 20%;
+    /* height: 100%; */
+    background: #33ef3c;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.shadow-img{
+  box-shadow: 0px 0px 7px 0px black;
+  margin-left: 20px;
+}
+
+.button-radio {
+  margin-top: 10px;
+  margin-left: 16px;
+}
+
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Search-header {
+  min-height: 10vh;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  justify-content: center;
+  color: rgb(83, 83, 83);
+}
+
+.image-center {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.search-border{
+  min-height: 20px;
+}
+
+.Login-design {
+  width: 500px;
+ 
+  display: flex;
+  /*meletakkan form ke tengah*/
+  margin: 80px auto;
+  padding: 30px 20px;
+}
+
+.space-button{ 
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.button_login {
+  font-size: 15pt;
+  width: 100%;
+  border: none;
+  margin-top: 20px;
+  padding: 10px 20px;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.slider-container {
+  width: 100%;
+  height: 100%;
+  
+  /* Add this */
+  position:fixed;
+  top:0;
+  left:0;
+  
+  }
+
+.font-test{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}  
+
+.search-sec{
+    background: rgb(255, 255, 255);
+    padding: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search-slt{
+    display: block;
+    width: 100%;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    color: #55595c;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    height: calc(3rem + 2px) !important;
+    border-radius:0;
+}
+.wrn-btn{
+    width: 100%;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: capitalize;
+     height: calc(3rem + 2px) !important;
+     border-radius:0;
+}
+
+.example1 {
+  border: 2px solid green;
+  padding: 25px;
+  background: #33ef3c;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.text-Login {
+  font-size: 20pt;
+  display: block;
+  font-weight: 700;
+} 
+
+.margin-form{
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.font-navbar {
+  font-size: x-large;
+  font-weight: 500;
+  color: honeydew;
+}
+
+.background-navbar {
+  background-color: mediumseagreen;
+  border-bottom: solid;
+  border-bottom-color: green;
+}
+
+.font-sub-nav {
+  font-family: 'Crimson Pro', serif;
+}
+
+.font-login{
+  font-family: cursive;
+}
+
+.search-border2{
+  height: 50px;
+  border-radius: unset;
+}
